@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/212204324517252215/ad7d5691e96745fcbe45fa6ac23d0ba6/artifacts
+deleted_time: 1701155970715
+end_time: 1701076333281
+entry_point_name: ''
+experiment_id: '212204324517252215'
+lifecycle_stage: deleted
+run_id: ad7d5691e96745fcbe45fa6ac23d0ba6
+run_name: rare-newt-244
+run_uuid: ad7d5691e96745fcbe45fa6ac23d0ba6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701076332923
+status: 3
+tags: []
+user_id: myo

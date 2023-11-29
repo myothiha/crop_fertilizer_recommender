@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/212204324517252215/44585c65f5914a038c378ed48b043a40/artifacts
+deleted_time: 1701155970715
+end_time: 1701076477786
+entry_point_name: ''
+experiment_id: '212204324517252215'
+lifecycle_stage: deleted
+run_id: 44585c65f5914a038c378ed48b043a40
+run_name: masked-hawk-720
+run_uuid: 44585c65f5914a038c378ed48b043a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701076472597
+status: 3
+tags: []
+user_id: myo

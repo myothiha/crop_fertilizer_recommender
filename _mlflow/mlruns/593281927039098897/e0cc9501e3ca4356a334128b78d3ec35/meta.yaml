@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/593281927039098897/e0cc9501e3ca4356a334128b78d3ec35/artifacts
+end_time: 1701156649693
+entry_point_name: ''
+experiment_id: '593281927039098897'
+lifecycle_stage: active
+run_id: e0cc9501e3ca4356a334128b78d3ec35
+run_name: XGBoost
+run_uuid: e0cc9501e3ca4356a334128b78d3ec35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701156620870
+status: 3
+tags: []
+user_id: myo

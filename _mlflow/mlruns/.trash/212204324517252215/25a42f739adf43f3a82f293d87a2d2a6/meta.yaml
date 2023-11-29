@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/212204324517252215/25a42f739adf43f3a82f293d87a2d2a6/artifacts
+deleted_time: 1701155970715
+end_time: 1701076463526
+entry_point_name: ''
+experiment_id: '212204324517252215'
+lifecycle_stage: deleted
+run_id: 25a42f739adf43f3a82f293d87a2d2a6
+run_name: marvelous-crane-382
+run_uuid: 25a42f739adf43f3a82f293d87a2d2a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701076333305
+status: 3
+tags: []
+user_id: myo

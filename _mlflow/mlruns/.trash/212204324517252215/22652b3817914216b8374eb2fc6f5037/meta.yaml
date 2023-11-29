@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/212204324517252215/22652b3817914216b8374eb2fc6f5037/artifacts
+deleted_time: 1701155970715
+end_time: 1701076477801
+entry_point_name: ''
+experiment_id: '212204324517252215'
+lifecycle_stage: deleted
+run_id: 22652b3817914216b8374eb2fc6f5037
+run_name: indecisive-cod-129
+run_uuid: 22652b3817914216b8374eb2fc6f5037
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701076317459
+status: 3
+tags: []
+user_id: myo

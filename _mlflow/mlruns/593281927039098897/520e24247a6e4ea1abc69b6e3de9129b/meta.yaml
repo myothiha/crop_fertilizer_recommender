@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/593281927039098897/520e24247a6e4ea1abc69b6e3de9129b/artifacts
+end_time: 1701156606753
+entry_point_name: ''
+experiment_id: '593281927039098897'
+lifecycle_stage: active
+run_id: 520e24247a6e4ea1abc69b6e3de9129b
+run_name: Random Forest
+run_uuid: 520e24247a6e4ea1abc69b6e3de9129b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701156581294
+status: 3
+tags: []
+user_id: myo

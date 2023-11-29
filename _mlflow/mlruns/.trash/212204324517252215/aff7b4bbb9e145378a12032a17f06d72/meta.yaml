@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/212204324517252215/aff7b4bbb9e145378a12032a17f06d72/artifacts
+deleted_time: 1701155970715
+end_time: 1701076332900
+entry_point_name: ''
+experiment_id: '212204324517252215'
+lifecycle_stage: deleted
+run_id: aff7b4bbb9e145378a12032a17f06d72
+run_name: upset-cod-142
+run_uuid: aff7b4bbb9e145378a12032a17f06d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701076326284
+status: 3
+tags: []
+user_id: myo
